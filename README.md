@@ -3,7 +3,16 @@
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 # How to run the project:
+
+## pre-built version (fastest and easiest):
+go to dist folder and run server there:
+`cd dist && python3 -m http.server`
+
+## or
+
+
 install project dependencies: `npm install`
+
 ### development version:
 run `npm run start` and go to <a href="http://localhost:1234/index.html">http://localhost:1234/index.html</a>
 ### production version:
