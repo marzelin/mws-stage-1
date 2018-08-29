@@ -10,69 +10,69 @@ module.exports="/marker-icon-2x.83f890ed.png";
 module.exports="/marker-shadow.e6998e8e.png";
 },{}],"tVP6":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=require("leaflet"),r=o(e),a=require("~/markerImages/marker-icon.png"),t=o(a),u=require("~/markerImages/marker-icon-2x.png"),l=o(u),i=require("~/markerImages/marker-shadow.png"),n=o(i);function o(e){return e&&e.__esModule?e:{default:e}}exports.default=r.default.icon({iconUrl:t.default,iconRetinaUrl:l.default,shadowUrl:n.default});
-},{"leaflet":"H1SE","~/markerImages/marker-icon.png":"THeS","~/markerImages/marker-icon-2x.png":"KKdG","~/markerImages/marker-shadow.png":"T3dk"}],"6gEh":[function(require,module,exports) {
+},{"leaflet":"H1SE","~/markerImages/marker-icon.png":"THeS","~/markerImages/marker-icon-2x.png":"KKdG","~/markerImages/marker-shadow.png":"T3dk"}],"wENv":[function(require,module,exports) {
+module.exports="/2.e0412c84.jpg";
+},{}],"6gEh":[function(require,module,exports) {
 module.exports="/10.0534b09d.jpg";
 },{}],"jb1Z":[function(require,module,exports) {
 module.exports="/1.e8a420cc.jpg";
-},{}],"wENv":[function(require,module,exports) {
-module.exports="/2.e0412c84.jpg";
-},{}],"qyj4":[function(require,module,exports) {
-module.exports="/6.ca7043db.jpg";
-},{}],"zotn":[function(require,module,exports) {
-module.exports="/7.39c5c9b5.jpg";
-},{}],"s/Mr":[function(require,module,exports) {
-module.exports="/3.2f258921.jpg";
-},{}],"4R3B":[function(require,module,exports) {
-module.exports="/8.163ca67b.jpg";
 },{}],"Hpsn":[function(require,module,exports) {
 module.exports="/5.d96bb900.jpg";
-},{}],"o/Mb":[function(require,module,exports) {
-module.exports="/9.4790728f.jpg";
 },{}],"a7CC":[function(require,module,exports) {
 module.exports="/4.d1427b56.jpg";
-},{}],"5hJO":[function(require,module,exports) {
-module.exports="/1.a3f4bea6.jpg";
-},{}],"p//B":[function(require,module,exports) {
-module.exports="/10.ede5080a.jpg";
-},{}],"pPlI":[function(require,module,exports) {
-module.exports="/3.a239bf56.jpg";
-},{}],"UIkH":[function(require,module,exports) {
-module.exports="/2.f9fb4661.jpg";
-},{}],"BBH7":[function(require,module,exports) {
-module.exports="/4.75e7273a.jpg";
-},{}],"cIzM":[function(require,module,exports) {
-module.exports="/5.95a99507.jpg";
-},{}],"kJ33":[function(require,module,exports) {
-module.exports="/6.59aa5202.jpg";
+},{}],"4R3B":[function(require,module,exports) {
+module.exports="/8.163ca67b.jpg";
+},{}],"o/Mb":[function(require,module,exports) {
+module.exports="/9.4790728f.jpg";
+},{}],"zotn":[function(require,module,exports) {
+module.exports="/7.39c5c9b5.jpg";
+},{}],"qyj4":[function(require,module,exports) {
+module.exports="/6.ca7043db.jpg";
+},{}],"s/Mr":[function(require,module,exports) {
+module.exports="/3.2f258921.jpg";
 },{}],"53F0":[function(require,module,exports) {
 module.exports="/1.458ab193.jpg";
 },{}],"oxGP":[function(require,module,exports) {
 module.exports="/10.3d28886e.jpg";
-},{}],"xpDD":[function(require,module,exports) {
-module.exports="/8.6b24ad7f.jpg";
-},{}],"5Rsg":[function(require,module,exports) {
-module.exports="/3.64176fa4.jpg";
-},{}],"YY6N":[function(require,module,exports) {
-module.exports="/2.432b83c5.jpg";
 },{}],"Cyla":[function(require,module,exports) {
 module.exports="/4.1810e8ee.jpg";
-},{}],"B8Az":[function(require,module,exports) {
-module.exports="/7.cc22cbde.jpg";
+},{}],"YY6N":[function(require,module,exports) {
+module.exports="/2.432b83c5.jpg";
 },{}],"kHvl":[function(require,module,exports) {
 module.exports="/6.e66c292c.jpg";
-},{}],"N8fV":[function(require,module,exports) {
-module.exports="/5.fba4c6aa.jpg";
-},{}],"zeyP":[function(require,module,exports) {
-module.exports="/7.17d2270e.jpg";
 },{}],"KlFJ":[function(require,module,exports) {
 module.exports="/8.495c5446.jpg";
+},{}],"zeyP":[function(require,module,exports) {
+module.exports="/7.17d2270e.jpg";
 },{}],"0hbZ":[function(require,module,exports) {
 module.exports="/9.765dc878.jpg";
+},{}],"p//B":[function(require,module,exports) {
+module.exports="/10.ede5080a.jpg";
+},{}],"5hJO":[function(require,module,exports) {
+module.exports="/1.a3f4bea6.jpg";
+},{}],"UIkH":[function(require,module,exports) {
+module.exports="/2.f9fb4661.jpg";
+},{}],"pPlI":[function(require,module,exports) {
+module.exports="/3.a239bf56.jpg";
+},{}],"cIzM":[function(require,module,exports) {
+module.exports="/5.95a99507.jpg";
+},{}],"kJ33":[function(require,module,exports) {
+module.exports="/6.59aa5202.jpg";
+},{}],"5Rsg":[function(require,module,exports) {
+module.exports="/3.64176fa4.jpg";
+},{}],"BBH7":[function(require,module,exports) {
+module.exports="/4.75e7273a.jpg";
 },{}],"me2u":[function(require,module,exports) {
 module.exports="/9.8386586f.jpg";
+},{}],"N8fV":[function(require,module,exports) {
+module.exports="/5.fba4c6aa.jpg";
+},{}],"B8Az":[function(require,module,exports) {
+module.exports="/7.cc22cbde.jpg";
+},{}],"xpDD":[function(require,module,exports) {
+module.exports="/8.6b24ad7f.jpg";
 },{}],"dfmM":[function(require,module,exports) {
 module.exports={300:{1:{jpg:require("./../300/1.jpg")},2:{jpg:require("./../300/2.jpg")},3:{jpg:require("./../300/3.jpg")},4:{jpg:require("./../300/4.jpg")},5:{jpg:require("./../300/5.jpg")},6:{jpg:require("./../300/6.jpg")},7:{jpg:require("./../300/7.jpg")},8:{jpg:require("./../300/8.jpg")},9:{jpg:require("./../300/9.jpg")},10:{jpg:require("./../300/10.jpg")}},450:{1:{jpg:require("./../450/1.jpg")},2:{jpg:require("./../450/2.jpg")},3:{jpg:require("./../450/3.jpg")},4:{jpg:require("./../450/4.jpg")},5:{jpg:require("./../450/5.jpg")},6:{jpg:require("./../450/6.jpg")},7:{jpg:require("./../450/7.jpg")},8:{jpg:require("./../450/8.jpg")},9:{jpg:require("./../450/9.jpg")},10:{jpg:require("./../450/10.jpg")}},800:{1:{jpg:require("./../800/1.jpg")},2:{jpg:require("./../800/2.jpg")},3:{jpg:require("./../800/3.jpg")},4:{jpg:require("./../800/4.jpg")},5:{jpg:require("./../800/5.jpg")},6:{jpg:require("./../800/6.jpg")},7:{jpg:require("./../800/7.jpg")},8:{jpg:require("./../800/8.jpg")},9:{jpg:require("./../800/9.jpg")},10:{jpg:require("./../800/10.jpg")}}};
-},{"./../800/10.jpg":"6gEh","./../800/1.jpg":"jb1Z","./../800/2.jpg":"wENv","./../800/6.jpg":"qyj4","./../800/7.jpg":"zotn","./../800/3.jpg":"s/Mr","./../800/8.jpg":"4R3B","./../800/5.jpg":"Hpsn","./../800/9.jpg":"o/Mb","./../800/4.jpg":"a7CC","./../300/1.jpg":"5hJO","./../300/10.jpg":"p//B","./../300/3.jpg":"pPlI","./../300/2.jpg":"UIkH","./../300/4.jpg":"BBH7","./../300/5.jpg":"cIzM","./../300/6.jpg":"kJ33","./../450/1.jpg":"53F0","./../450/10.jpg":"oxGP","./../300/8.jpg":"xpDD","./../450/3.jpg":"5Rsg","./../450/2.jpg":"YY6N","./../450/4.jpg":"Cyla","./../300/7.jpg":"B8Az","./../450/6.jpg":"kHvl","./../450/5.jpg":"N8fV","./../450/7.jpg":"zeyP","./../450/8.jpg":"KlFJ","./../450/9.jpg":"0hbZ","./../300/9.jpg":"me2u"}],"TB6k":[function(require,module,exports) {
+},{"./../800/2.jpg":"wENv","./../800/10.jpg":"6gEh","./../800/1.jpg":"jb1Z","./../800/5.jpg":"Hpsn","./../800/4.jpg":"a7CC","./../800/8.jpg":"4R3B","./../800/9.jpg":"o/Mb","./../800/7.jpg":"zotn","./../800/6.jpg":"qyj4","./../800/3.jpg":"s/Mr","./../450/1.jpg":"53F0","./../450/10.jpg":"oxGP","./../450/4.jpg":"Cyla","./../450/2.jpg":"YY6N","./../450/6.jpg":"kHvl","./../450/8.jpg":"KlFJ","./../450/7.jpg":"zeyP","./../450/9.jpg":"0hbZ","./../300/10.jpg":"p//B","./../300/1.jpg":"5hJO","./../300/2.jpg":"UIkH","./../300/3.jpg":"pPlI","./../300/5.jpg":"cIzM","./../300/6.jpg":"kJ33","./../450/3.jpg":"5Rsg","./../300/4.jpg":"BBH7","./../300/9.jpg":"me2u","./../450/5.jpg":"N8fV","./../300/7.jpg":"B8Az","./../300/8.jpg":"xpDD"}],"TB6k":[function(require,module,exports) {
 module.exports="/restaurants.c3566d1d.data";
 },{}],"P8yk":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,u=!1,a=void 0;try{for(var i,l=e[Symbol.iterator]();!(r=(i=l.next()).done)&&(n.push(i.value),!t||n.length!==t);r=!0);}catch(e){u=!0,a=e}finally{try{!r&&l.return&&l.return()}finally{if(u)throw a}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),t=function(){function e(e,t){for(var n=0;n<t.length;n++){var r=t[n];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(e,r.key,r)}}return function(t,n,r){return n&&e(t.prototype,n),r&&e(t,r),t}}(),n=require("leaflet"),r=s(n),u=require("./marker-icon"),a=s(u),i=require("../img/*/*.*"),l=s(i),o=require("~/data/restaurants.data"),f=s(o);function s(e){return e&&e.__esModule?e:{default:e}}function c(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var d=Object.keys(l.default),h=d.sort(function(e,t){return e-t})[0],y=function(){function n(){c(this,n)}return t(n,null,[{key:"fetchRestaurants",value:function(e){var t=new XMLHttpRequest;t.open("GET",n.DATABASE_URL),t.onload=function(){if(200===t.status){var n=JSON.parse(t.responseText).restaurants;e(null,n)}else{var r="Request failed. Returned status of "+t.status;e(r,null)}},t.send()}},{key:"fetchRestaurantById",value:function(e,t){n.fetchRestaurants(function(n,r){if(n)t(n,null);else{var u=r.find(function(t){return t.id==e});u?t(null,u):t("Restaurant does not exist",null)}})}},{key:"fetchRestaurantByCuisine",value:function(e,t){n.fetchRestaurants(function(n,r){if(n)t(n,null);else{var u=r.filter(function(t){return t.cuisine_type==e});t(null,u)}})}},{key:"fetchRestaurantByNeighborhood",value:function(e,t){n.fetchRestaurants(function(n,r){if(n)t(n,null);else{var u=r.filter(function(t){return t.neighborhood==e});t(null,u)}})}},{key:"fetchRestaurantByCuisineAndNeighborhood",value:function(e,t,r){n.fetchRestaurants(function(n,u){if(n)r(n,null);else{var a=u;"all"!=e&&(a=a.filter(function(t){return t.cuisine_type==e})),"all"!=t&&(a=a.filter(function(e){return e.neighborhood==t})),r(null,a)}})}},{key:"fetchNeighborhoods",value:function(e){n.fetchRestaurants(function(t,n){if(t)e(t,null);else{var r=n.map(function(e,t){return n[t].neighborhood}),u=r.filter(function(e,t){return r.indexOf(e)==t});e(null,u)}})}},{key:"fetchCuisines",value:function(e){n.fetchRestaurants(function(t,n){if(t)e(t,null);else{var r=n.map(function(e,t){return n[t].cuisine_type}),u=r.filter(function(e,t){return r.indexOf(e)==t});e(null,u)}})}},{key:"urlForRestaurant",value:function(e){return"./restaurant.html?id="+e.id}},{key:"imageUrlForRestaurant",value:function(t){var n=t.photograph.split("."),r=e(n,2),u=r[0],a=r[1],i=d.map(function(e){return l.default[e][u][a]+" "+e+"w"}).join(", ");return[l.default[h][u][a],i]}},{key:"mapMarkerForRestaurant",value:function(e,t){var u=new r.default.marker([e.latlng.lat,e.latlng.lng],{title:e.name,alt:e.name,url:n.urlForRestaurant(e),icon:a.default});return u.addTo(t),u}},{key:"DATABASE_URL",get:function(){return f.default}}]),n}();exports.default=y;
